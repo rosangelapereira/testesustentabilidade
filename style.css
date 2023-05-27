@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  #questions {
+    margin-bottom: 20px;
+  }
+  
+  #quizForm {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #result {
+    text-align: center;
+  }
+  
+  #pontuacao {
+    font-size: 24px;
+    font-weight: bold;
+    color: #4CAF50;
+  }
+  
